@@ -1,0 +1,22 @@
+{
+    "name": "light-plus-plus",
+    "displayName": "light-plus-plus",
+    "description": "based on light+ theme",
+    "version": "0.0.1",
+    "publisher": "microacup",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "light-plus-plus",
+                "uiTheme": "vs",
+                "path": "./themes/light-plus-plus-color-theme.json"
+            }
+        ]
+    }
+}
