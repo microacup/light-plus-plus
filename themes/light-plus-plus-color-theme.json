@@ -236,7 +236,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#04b60d"
+				"foreground": "#15a167"
 			}
 		},
 		{
@@ -413,7 +413,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#08af9e"
+				"foreground": "#0097A7"
 			}
 		},
 		{
@@ -481,7 +481,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#757575"
+				"foreground": "#424242"
 			}
 		},
 		{
