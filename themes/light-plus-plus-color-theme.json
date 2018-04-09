@@ -48,7 +48,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#BDBDBD"
+				"foreground": "#9E9E9E"
 			}
 		},
 		{
@@ -227,9 +227,16 @@
 			}
 		},
 		{
+			"scope": "storage.arrow",
+			"settings": {
+				"fontStyle": "bold",
+				"foreground": "#0000ff"
+			}
+		},
+		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#20af4d"
+				"foreground": "#04b60d"
 			}
 		},
 		{
@@ -340,6 +347,7 @@
 				"keyword.operator.logical.python"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#0000ff"
 			}
 		},
@@ -385,7 +393,16 @@
 			"name": "this.self",
 			"scope": "variable.language",
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#0000ff"
+			}
+		},
+		{
+			"name": "Tag function parenthesis",
+			"scope": "tag.punctuation.begin.arrow.parameters.embedded, tag.punctuation.end.arrow.parameters.embedded",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#a9b7c6"
 			}
 		},
 		{
@@ -396,7 +413,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#00796B"
+				"foreground": "#08af9e"
 			}
 		},
 		{
