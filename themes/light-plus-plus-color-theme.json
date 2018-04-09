@@ -75,13 +75,13 @@
 			"name": "css tags in selectors, xml tags",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#2196F3"
+				"foreground": "#2979FF"
 			}
 		},
 		{
 			"scope": "entity.name.selector",
 			"settings": {
-				"foreground": "#2196F3"
+				"foreground": "#2979FF"
 			}
 		},
 		{
@@ -129,7 +129,7 @@
 			"scope": "markup.heading",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#2196F3"
+				"foreground": "#2979FF"
 			}
 		},
 		{
@@ -168,20 +168,20 @@
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#2196F3"
+				"foreground": "#2979FF"
 			}
 		},
 		{
 			"scope": "meta.selector",
 			"settings": {
-				"foreground": "#2196F3"
+				"foreground": "#2979FF"
 			}
 		},
 		{
 			"name": "brackets of XML/HTML tags",
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#2196F3"
+				"foreground": "#2979FF"
 			}
 		},
 		{
@@ -363,7 +363,7 @@
 				"punctuation.section.embedded.end.php"
 			],
 			"settings": {
-				"foreground": "#2196F3"
+				"foreground": "#2979FF"
 			}
 		},
 		{
@@ -449,7 +449,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#2196F3"
+				"foreground": "#2979FF"
 			}
 		},
 		{
@@ -490,7 +490,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#2196F3"
+				"foreground": "#2979FF"
 			}
 		},
 		{
