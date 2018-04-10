@@ -9,6 +9,7 @@
 		"editorIndentGuide.background": "#d3d3d3",
 		"editorSuggestWidget.background": "#f3f3f3",
 		"activityBarBadge.background": "#007acc",
+		"editorLineNumber.foreground": "#808080",
 		"sideBarTitle.foreground": "#6f6f6f"
 	},
 	"tokenColors": [
@@ -87,7 +88,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#689F38"
+				"foreground": "#15a167"
 			}
 		},
 		{
@@ -236,7 +237,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#15a167"
+				"foreground": "#F06292"
 			}
 		},
 		{
