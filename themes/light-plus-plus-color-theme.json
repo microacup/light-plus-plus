@@ -259,7 +259,7 @@
 				"string.quoted.double.handlebars"
 			],
 			"settings": {
-				"foreground": "#FF9800"
+				"foreground": "#F06292"
 			}
 		},
 		{
@@ -312,7 +312,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#FFA000"
+				"foreground": "#795548"
 			}
 		},
 		{
